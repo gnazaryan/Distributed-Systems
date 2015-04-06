@@ -20,6 +20,7 @@ public class Collector implements Runnable{
 		
 	}
 
+	
 	@Override
 	public void run() {
 		try{
