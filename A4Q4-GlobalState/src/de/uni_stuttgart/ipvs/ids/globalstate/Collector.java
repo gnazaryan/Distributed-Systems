@@ -20,7 +20,6 @@ public class Collector implements Runnable{
 		this.processCount = processCount;
 		
 	}
-
 	
 	@Override
 	public void run() {
