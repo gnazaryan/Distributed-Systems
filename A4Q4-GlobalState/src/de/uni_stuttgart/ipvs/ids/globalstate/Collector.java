@@ -14,6 +14,7 @@ public class Collector implements Runnable{
 	double sumStates;
 	double sumChannels;
 	
+	//Useful constructor
 	public Collector(int listenPort,int processCount) {
 		this.listenPort = listenPort;
 		this.processCount = processCount;
